@@ -8,4 +8,4 @@ Example:
 Output:  
 In folder ```image``` files ```157.tif, 105.tif``` 
 
-<img src="output/105n.png" width="420"> <img src="output/output.png" width="420">
+<img src="images/105n.png" width="420"> <img src="output/105.png" width="420">
